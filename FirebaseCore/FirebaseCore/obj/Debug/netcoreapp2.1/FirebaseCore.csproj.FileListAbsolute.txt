@@ -1,0 +1,12 @@
+E:\C#\FirebaseCore\FirebaseCore\obj\Debug\netcoreapp2.1\FirebaseCore.csprojAssemblyReference.cache
+E:\C#\FirebaseCore\FirebaseCore\obj\Debug\netcoreapp2.1\FirebaseCore.csproj.CoreCompileInputs.cache
+E:\C#\FirebaseCore\FirebaseCore\obj\Debug\netcoreapp2.1\FirebaseCore.AssemblyInfoInputs.cache
+E:\C#\FirebaseCore\FirebaseCore\obj\Debug\netcoreapp2.1\FirebaseCore.AssemblyInfo.cs
+E:\C#\FirebaseCore\FirebaseCore\bin\Debug\netcoreapp2.1\FirebaseCore.deps.json
+E:\C#\FirebaseCore\FirebaseCore\bin\Debug\netcoreapp2.1\FirebaseCore.runtimeconfig.json
+E:\C#\FirebaseCore\FirebaseCore\bin\Debug\netcoreapp2.1\FirebaseCore.runtimeconfig.dev.json
+E:\C#\FirebaseCore\FirebaseCore\bin\Debug\netcoreapp2.1\FirebaseCore.dll
+E:\C#\FirebaseCore\FirebaseCore\bin\Debug\netcoreapp2.1\FirebaseCore.pdb
+E:\C#\FirebaseCore\FirebaseCore\obj\Debug\netcoreapp2.1\FirebaseCore.dll
+E:\C#\FirebaseCore\FirebaseCore\obj\Debug\netcoreapp2.1\FirebaseCore.pdb
+E:\C#\FirebaseCore\FirebaseCore\bin\Debug\netcoreapp2.1\db.json
